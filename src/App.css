@@ -1,0 +1,6 @@
+/* 
+            {activeMode.title === "Pomodoro" && (
+              <p className="mt-4 text-sm opacity-80">
+                {pomodoroCount} / {settings.longBreakInterval} Pomodoro cycles
+              </p>
+            )}  */
